@@ -5,4 +5,4 @@ To find portfolio of least risk, standard deviation was used as a measure of vol
 
 To find portfolio of highest risj adjust return, sharpe ratio was used. 
 
-Sharpe raatio was computed as (return / std. dev)
+Sharpe ratio was computed as (return / std. dev)
